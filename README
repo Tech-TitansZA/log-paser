@@ -1,0 +1,4 @@
+Log Parser & Analyzer:
+
+The Pitch: A command-line tool that takes a massive server log file 
+(e.g., from an Nginx or Apache server), parses it, and outputs a clean summary of error rates (404s, 500s), peak traffic times, and unique IP hits.
